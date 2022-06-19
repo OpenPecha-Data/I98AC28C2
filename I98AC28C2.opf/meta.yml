@@ -1,0 +1,27 @@
+id: I98AC28C2
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T17:48:47.578862'
+last_modified: '2022-06-19T17:48:47.578873'
+parser: null
+source_metadata:
+  title: Three Deities of Long Life
+  language: en
+  description: 'Texts related to the Three Deities of Long Life (tshe lha rnam gsum),
+    i.e., Amitāyus (tshe dpag med), White Tārā (sgrol dkar) and Uṣṇīṣayavijayā (rnam
+    rgyal ma):'
+  volume:
+    fA915:
+      title: 'A Shortcut to the Siddhi of Immortality: Guru Yoga of Union with the
+        Three Deities of Long Life'
+      base_file: fA915.txt
+      order: 1
+      parent: Guru Yoga
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
